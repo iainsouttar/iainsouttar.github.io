@@ -8,7 +8,7 @@ I am a PhD student in the MAC-MIGS centre for doctoral training at the Maxwell i
 1.  D. Crisan, P. Dobson, B. Goddard, M. Ottobre, and I. Souttar, Poisson equations
 with locally-lipschitz coefficients and uniform in time averaging for stochastic differential
 equations via strong exponential stability, 2022. Available as [arXiv preprint](https://arxiv.org/abs/2204.02679). _Submitted_.
-1.  B.D. Goddard, M. Ottobre, K. Painter, and I. Souttar. On Averaging,  when the fast process has multiple invariant measures, 2023. Available as [arXiv preprint](). _Submitted_.
+1.  B.D. Goddard, M. Ottobre, K. Painter, and I. Souttar. On Averaging,  when the fast process has multiple invariant measures, 2023. Available as [arXiv preprint](https://arxiv.org/abs/2305.04632v1). _Submitted_.
 
 # Academic Side interests
 I am more generally interested in the philosophy of science, and the interplay between science and decision making. This has led myself and Joe Colvin, a former PhD colleague of mine, to record some discussions with a number of experts in mathematical modelling, see [here](https://www.youtube.com/channel/UC1hDp_1BRhkcDOJuNzKXZ1A) for these. I very occassionally blog, and you can see a list (I use this term loosely) below.
