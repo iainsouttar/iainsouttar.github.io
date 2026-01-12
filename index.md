@@ -2,7 +2,7 @@
 layout: default
 ---
 # About me
-I am an Innovation Research Associate (InRA) at CAMaCS, University of Warwick, brooadly interested in interdisciplinary mathematics. Before this I was a PhD student in the MAC-MIGS centre for doctoral training at the Maxwell institute graduate school, based in Heriot-Watt university under the supervision of Michela Ottobre and Ben Goddard. My more specific academic interests lie in but are not limited to mathematical modelling, applied probability, stochastic analysis and mathematical biology. You can check out a (possibly out of date) version of my CV [here](./cv.pdf). See my university webpage [here](https://warwick.ac.uk/fac/sci/camacs/people/souttar/).
+I am an Innovation Research Associate (InRA) at CAMaCS, University of Warwick, broadly interested in interdisciplinary mathematics. Before this I was a PhD student in the MAC-MIGS centre for doctoral training at the Maxwell institute graduate school, based in Heriot-Watt university under the supervision of Michela Ottobre and Ben Goddard. My more specific academic interests lie in but are not limited to mathematical modelling, applied probability, stochastic analysis and mathematical biology. You can check out a (possibly out of date) version of my CV [here](./cv.pdf). See my university webpage [here](https://warwick.ac.uk/fac/sci/camacs/people/souttar/).
 
 <!---
 # News
