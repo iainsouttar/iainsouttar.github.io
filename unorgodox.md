@@ -11,14 +11,16 @@ transfer and collaboration will be key for InRA leaders in the future. There is 
 which is often focussed on technical skills, or event organisation limited to narrow expertise audiences (standard conference format for example).
 There is now an appetite for more encouragement to explore the true range of possibilities when it comes to format, facilitation, activities, seating, 
 venue, etc. These variables all play a part in contributing to an atmosphere and, if harnessed, can help to curate effective collaborative environments 
-for dRTPs. (Forgive the formal tone, this was taken verbatim from the application...)
+for dRTPs. 
+
+(Forgive the formal tone, it was taken verbatim from the application...)
 
 ## So, what is it?
 The training will consist of three parts.
-  * Two online sessions, one in the afternoon of 16th June and one in the afternoon of 18th June, taken by [Heidi Seibold](https://heidiseibold.com/) of the [Digital Research Academy](https://digital-research.academy/).
+  1. Two online sessions, one in the afternoon of 16th June and one in the afternoon of 18th June, taken by [Heidi Seibold](https://heidiseibold.com/) of the [Digital Research Academy](https://digital-research.academy/).
     This will give participants the chance to learn about different formats as well as choices one can make as an organiser to curate a productive atmosphere. It will address both practicalities and more philosophical considerations.
-  * The summer conference season will then provide participants an opportunity to lend a curious and critical eye to the academic events they attend, thinking about them in the context of the online training session.
-  * Finally, in September we will gather at the University of Warwick for a 2-day workshop where participants will have the chance to share their reflections as well as put some ideas into action through some experimentation.
+  2. The summer conference season will then provide participants an opportunity to lend a curious and critical eye to the academic events they attend, thinking about them in the context of the online training sessions.
+  3. Finally, in September we will gather at the University of Warwick for a 2-day workshop where participants will have the chance to share their reflections as well as put some ideas into action through some experimentation.
 
 ## Sounds great, where do I sign up??
 The application for unorgodox can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfBCVboxxxMuglt5Ux9kotXCzdWpGsEzq_j0dQhPFAHFEJefw/viewform?usp=header).
