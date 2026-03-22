@@ -25,7 +25,7 @@ The application for unorgodox can be found [here](https://docs.google.com/forms/
 Accommodation and travel for all participants has been budgeted, and there is also some funding for caring costs should it be required. 
 The number of participants will be at most 20 to ensure everyone is heard. Due to the collaborative nature, it is important that each person arrives with curiosity and 
 enthusiasm. For this reason, we require a statement of intent (max 200 words, but this is not a guide, a sufficient one could be significantly shorter). Applicants will not be
-chosen based on their experience in organising events, but rather their willingness to engage with the training and how useful it will be for them moving forward.
+chosen based on their experience in organising events, but rather their willingness to engage with the training and how useful it might be for them moving forward.
 
 
 ## Outputs
