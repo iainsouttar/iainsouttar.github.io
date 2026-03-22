@@ -20,13 +20,19 @@ equations via strong exponential stability, 2022. Available as [arXiv preprint](
 4.  K. Schuh, I. Souttar, Conditions for uniform in time convergence: applications to averaging, numerical discretisations and mean-field systems, 2024, Available as [arXiv preprint](https://arxiv.org/abs/2412.05239).
 
 # Academic Side interests
-I am more generally interested in the philosophy of science, and the interplay between science and decision making. This has led myself and Joe Colvin, a former PhD colleague of mine, to record some discussions with a number of experts in mathematical modelling, see [here](https://www.youtube.com/channel/UC1hDp_1BRhkcDOJuNzKXZ1A) for these. I very occassionally blog, and you can see a list (I use this term loosely) below.
+## Philosophy of science
+I am more generally interested in the philosophy of science, and the interplay between science and decision making. This has led myself and Joe Colvin, a former PhD colleague of mine, to record some discussions with a number of experts in mathematical modelling, see [here](https://www.youtube.com/channel/UC1hDp_1BRhkcDOJuNzKXZ1A) for these. In April 2025 I organised a one-day workshop, funded by an ICMS follow-on grant, which brought together epidemiologists, economists, ecologists, research facilitators, statisticians, disaster risk management consultants, philosophers and more. It was a great room of people and we just sat around discussing.
+
+#### Reading group
+I co-organise a reading group, broadly on the philosophy of modelling, but often touching on topics of communication and science in society as well. We are very informal, meet roughly once a month, and try to keep open discussion beginning by considereing a particular reading. Please email me if you are interested in this, I can share some of our previous readings and accompanying notes to see if it might be right for you.
+
+### 
+
+## Event organisation
+Gathering people in productive spaces is an extremely important part of academia. I will be co-organising some training for organising novel events across the summer, funded by a DisCouRSE flexible fund award.
 
 ## Blogs
 [Read here about averages](./Ergodicity_of_multiplicity.html)
 
 # Bikepacking/Camping
-I also love to go on A-B journeys with my bike or my own two feet. My two favourites being a 22 day Edinburgh-London walk and cycling over to and around Mull from Edinburgh.
-
-
-
+I also love to go on A-B journeys with my bike or my own two feet. My two favourites being a 22 day Edinburgh-London walk and cycling over to and around Mull from Edinburgh. In 2026 I will be travelling to conferences via train (various), cycling (over 3 days) and walking (over 6 days).
