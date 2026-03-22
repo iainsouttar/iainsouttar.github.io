@@ -1,6 +1,6 @@
 # Unorgodox
 
-Supported by the [DisCouRSE](https://discourse-network.github.io/) flexible fund round 1, [Kat Phillips](https://katdoesmaths.me/) and I are hosting (/taking part in!) training on _unorthodox event organisation_.
+Supported by the [DisCouRSE](https://discourse-network.github.io/) flexible fund round 1, [Kat Phillips](https://katdoesmaths.me/) and I are hosting (/taking part in!) training on _unorthodox event organisation_, taking place on the following dates: 16th June, 18th June, XXX September.
 
 ## Raison d'être
 Innovation Research Associate (InRA) is a new and expanding type of digital Research Technical Professional (dRTP) role aimed at producing impactful 
