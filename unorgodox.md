@@ -26,7 +26,7 @@ The training will consist of three parts.
 The application for unorgodox can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfBCVboxxxMuglt5Ux9kotXCzdWpGsEzq_j0dQhPFAHFEJefw/viewform?usp=header).
 Accommodation and travel for all participants has been budgeted, and there is also some funding for caring costs should it be required. 
 The number of participants will be at most 20 to ensure everyone is heard. Due to the collaborative nature, it is important that each person arrives with curiosity and 
-enthusiasm. For this reason, we require a statement of intent (max 250 words, but this is not a guide, a sufficient one could be significantly shorter). Applicants will not be chosen based on their experience in organising events, but rather their willingness to engage with the training and how useful it might be for them moving forward.
+enthusiasm. For this reason, we require a statement of intent (max 250 words, but this is not a guide, a sufficient one could be significantly shorter). Applicants will not be chosen based on their experience in organising events, but rather their willingness to engage with the training and how useful it might be for them moving forward. The deadline for applying is 5pm 15th April, and all applicants will be notified within a week.
 
 
 ## Outputs
