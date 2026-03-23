@@ -31,7 +31,7 @@ chosen based on their experience in organising events, but rather their willingn
 
 
 ## Outputs
-The outputs of this training are published openly after the fact. This will include material produced by Heidi, as well as some co-created by the participants throughout the training
+The outputs of this training will be published openly after the fact. This will include material produced by Heidi, as well as some co-created by the participants throughout the training
 so that we capture our learnings. Our intention is for this type of training to be offered more widely in the future, so get in touch if you would be interested in this for a slightly different context.
 
 ---
