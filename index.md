@@ -27,7 +27,7 @@ I am more generally interested in the philosophy of science, and the interplay b
 I co-organise a reading group, broadly on the philosophy of modelling, but often touching on topics of communication and science in society as well. We are very informal, meet roughly once a month, and try to keep open discussion beginning by considereing a particular reading. Please email me if you are interested in this, I can share some of our previous readings and accompanying notes to see if it might be right for you.
 
 ## Event organisation
-Gathering people in productive spaces is an extremely important part of academia. I will be co-organising some training for organising novel events across the summer, funded by a DisCouRSE flexible fund award.
+Gathering people in productive spaces is an extremely important part of academia. I will be co-organising some training for organising novel events across the summer, funded by a DisCouRSE flexible fund award. See the [unorgodox webpage](./unorgodox.md) for more details.
 
 ## Blogs
 [Read here about averages](./Ergodicity_of_multiplicity.html)
