@@ -20,7 +20,7 @@ The training will consist of three parts.
   1. Two online sessions, one in the afternoon of 16th June and one in the afternoon of 18th June, taken by [Heidi Seibold](https://heidiseibold.com/) of the [Digital Research Academy](https://digital-research.academy/).
     This will give participants the chance to learn about different formats as well as choices one can make as an organiser to curate a productive atmosphere. It will address both practicalities and more philosophical considerations.
   2. The summer conference season will then provide participants an opportunity to lend a curious and critical eye to the academic events they attend, thinking about them in the context of the online training sessions.
-  3. Finally, in September we will gather at the University of Warwick for a 2-day workshop where participants will have the chance to share their reflections as well as put some ideas into action through some experimentation.
+  3. Finally, on 18th-19th September we will gather at the University of Warwick for a 2-day workshop where participants will have the chance to share their reflections as well as put some ideas into action through some experimentation.
 
 ## Sounds great, where do I sign up??
 The application for unorgodox can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfBCVboxxxMuglt5Ux9kotXCzdWpGsEzq_j0dQhPFAHFEJefw/viewform?usp=header).
