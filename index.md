@@ -33,4 +33,13 @@ Gathering people in productive spaces is an extremely important part of academia
 [Read here about averages](./Ergodicity_of_multiplicity.html)
 
 # Bikepacking/Camping
-I also love to go on A-B journeys with my bike or my own two feet. My two favourites being a 22 day Edinburgh-London walk and cycling over to and around Mull from Edinburgh. In 2026 I will be travelling to conferences via train (various), cycling (over 3 days) and walking (over 6 days).
+I also love to go on A-B journeys with my bike or my own two feet. My favourites, in chronological order:
+1. Cycled Edinburgh to London 2020
+2. Cycled Edinburgh to Mull and back 2021
+3. Walked Edinburgh to London 2023
+4. Walked Aviemore to Arbroath 2024
+5. Walked Gregynog to Coventry back from Warwick stats departmental conference 2025
+6. Cycled Coventry to Norwich for BAMC 2026
+7. Walked Coventry to Machynlleth for Open Science retreat 2026
+
+[I made a map](./map.html) which illuminates part of the UK I have [wild camped](https://en.wikipedia.org/wiki/Wild_camping) within a days walk (25 miles) of. That is, I plot circles of raidus 25 miles around each of my camping spots (no campsites) then take the union of these circles and the intersection between them and the UK land area. One day I hope to cover the whole of the UK - I'm currently at about 34%.
