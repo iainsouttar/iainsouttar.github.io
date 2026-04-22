@@ -1,6 +1,6 @@
 # Unorgodox
 
-Supported by the [DisCouRSE](https://discourse-network.github.io/) flexible fund round 1, [Kat Phillips](https://katdoesmaths.me/) and I are hosting (/taking part in!) training on _unorthodox event organisation_, taking place on the following dates: 16th June (afternoon), 18th June (afternoon), 17th-18th September. Participants from all digital Research Technical Professional (dRTP) roles are encouraged to take part. Preference will be given to those in dRTP roles, but everyone is welcome.
+Supported by the [DisCouRSE](https://discourse-network.github.io/) flexible fund round 1, [Kat Phillips](https://katdoesmaths.me/) and I are hosting (/taking part in!) training on _unorthodox event organisation_, taking place on the following dates: 16th June (afternoon), 18th June (afternoon), 17th-18th September. Participants from all digital Research Technical Professional (dRTP) roles are encouraged to take part. Preference will be given to those in dRTP roles, but everyone is welcome. This training is free to participate in, and there is available budget for travel and accommodation expenses.
 
 ## Raison d'être
 Innovation Research Associate (InRA) is a new and expanding type of dRTP role aimed at producing impactful 
