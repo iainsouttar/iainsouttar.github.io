@@ -42,4 +42,4 @@ I also love to go on A-B journeys with my bike or my own two feet. My favourites
 6. Cycled Coventry to Norwich for BAMC 2026
 7. Walked Coventry to Machynlleth for Open Science retreat 2026
 
-[I made a map](./map.html) which illuminates part of the UK I have [wild camped](https://en.wikipedia.org/wiki/Wild_camping) within a days walk (25 miles) of. That is, I plot circles of raidus 25 miles around each of my camping spots (no campsites) then take the union of these circles and the intersection between them and the UK land area. One day I hope to cover the whole of the UK - I'm currently at about 34%.
+[I made a map](./map.html) which illuminates part of the UK I have [wild camped](https://en.wikipedia.org/wiki/Wild_camping) within a days walk (25 miles) of. That is, I plot circles of radius 25 miles around each of my camping spots (no campsites) then take the union of these circles and the intersection between them and the UK land area. One day I hope to cover the whole of the UK - I'm currently at about 34%.
