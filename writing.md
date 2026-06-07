@@ -1,7 +1,7 @@
 ---
 title: Writing
 layout: default
-permalink: /blah/
+permalink: /writing/
 ---
 
 # Writing
