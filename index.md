@@ -31,7 +31,7 @@ Gathering people in productive spaces is an extremely important part of academia
 
 ## Writing
 - [Read here about averages](./Ergodicity_of_multiplicity.html)
-- [Read some of my non-academic writing](writing)
+- [Read some of my non-academic writing](./writing)
 
 # Bikepacking/Camping
 I also love to go on A-B journeys with my bike or my own two feet. My favourites, in chronological order:
