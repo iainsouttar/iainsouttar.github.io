@@ -1,7 +1,10 @@
 ---
 title: Writing
-layout: writing
+layout: default
+permalink: /blah/
 ---
+
+# Writing
 
 This is a collection of some of my reflections on random things. They cover a broad range in length, topic and pretentiousness.
 
