@@ -29,8 +29,9 @@ I co-organise a reading group, broadly on the philosophy of modelling, but often
 ## Event organisation
 Gathering people in productive spaces is an extremely important part of academia. I will be co-organising some training for organising novel events across the summer, funded by a DisCouRSE flexible fund award. See the [unorgodox webpage](./unorgodox.md) for more details.
 
-## Blogs
-[Read here about averages](./Ergodicity_of_multiplicity.html)
+## Writing
+- [Read here about averages](./Ergodicity_of_multiplicity.html)
+- [Read some of my non-academic writing](writing)
 
 # Bikepacking/Camping
 I also love to go on A-B journeys with my bike or my own two feet. My favourites, in chronological order:

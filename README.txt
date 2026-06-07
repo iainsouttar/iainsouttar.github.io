@@ -1,1 +1,1 @@
-This is the repository for creating my academic webpage.
+This is the repository for creating my webpage.

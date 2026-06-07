@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/writing.css' | relative_url }}">
+</head>
+
+<body>
+  <main class="essay-container">
+
+    <p>
+      <a href="/writing/">Back to writing</a>
+    </p>
+
+    <h1>{{ page.title }}</h1>
+
+    {% if page.date %}
+      <p class="essay-date">
+        {{ page.date | date: "%d %B %Y" }}
+      </p>
+    {% endif %}
+
+    {{ content }}
+
+  </main>
+
+  <script data-goatcounter="https://iainswebpage.goatcounter.com/count"
+      async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
