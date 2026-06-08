@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en-US' }}">
+<html lang="{{ site.lang | default: 'en-UK' }}">
+
+
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,6 +26,23 @@
         {{ page.date | date: "%d %B %Y" }}
       </p>
     {% endif %}
+
+    
+   {% if page.audio %}
+    <hr class="essay-divider">
+
+    <p class="listen-label">
+    Listen to my amateurish narration of this piece {% if page.duration %} ({{ page.duration }}){% endif %}
+    </p>
+
+    <audio controls preload="none">
+    <source src="{{ '/assets/audio/' | append: page.audio | relative_url }}" type="audio/mpeg">
+    </audio>
+    <hr class="essay-divider">
+
+    {% endif %}
+
+
 
     {{ content }}
 
