@@ -3,7 +3,7 @@ title: Avoid judgement, not comparison
 layout: writing
 date: 2026-06-05
 audio: comparison-is-the-thief-of-joy.mp3
-druation: 4 min
+duration: 4 min
 ---
 
 “Comparison is the thief of joy.”
