@@ -2,6 +2,7 @@
 title: Endurance days
 layout: writing
 date: 2026-06-05
+audio: endurance-days.mp3
 ---
 
 
