@@ -10,6 +10,8 @@
   {% seo %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/writing.css' | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/sailboat-transparent-favicon.png' | relative_url }}">
+
 </head>
 
 <body>
@@ -20,7 +22,7 @@
       <a href="/writing/">Back to writing</a>
     </p>
 
-    <h1>{{ page.title }}</h1>
+    <h1 class="writing-header-piece">{{ page.title }}</h1>
 
     {% if page.date %}
       <p class="essay-date">

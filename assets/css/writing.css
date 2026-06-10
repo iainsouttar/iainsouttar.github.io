@@ -7,6 +7,12 @@
   line-height: 1.75;
 }
 
+.essay-container a,
+.writing-content a {
+    color: #333;
+    text-decoration: underline;
+}
+
 .essay-date {
   color: #777;
   margin-bottom: 2rem;
@@ -23,4 +29,27 @@
 body {
   background: #faf9f6;
   color: #333;
+}
+
+.writing-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-weight: normal;
+    font-size: 2.5rem;
+
+}
+
+.writing-header-piece {
+    margin-bottom: 2rem;
+    font-weight: normal;
+    font-size: 2.5rem;
+
+}
+
+.sailboat {
+    width: 150px;
+    display: block;
+    margin: 0 auto 0.5rem auto;
+    opacity: 0.9;
+
 }

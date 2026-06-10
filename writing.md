@@ -4,7 +4,10 @@ layout: writing_front
 permalink: /writing/
 ---
 
-# Writing
+<div class="writing-header">
+  <img src="/assets/sailboat-transparent1.png" alt="Sailboat" class="sailboat">
+  Writing
+</div>
 
 This is a collection of some reflections on random things. They cover a broad range in length, topic, and pretentiousness. 
 
