@@ -3,6 +3,7 @@ title: Almost true
 layout: writing
 date: 2026-06-08
 audio: almost-true.mp3
+duration: 10 min
 ---
 
 Recently, I've been thinking a lot about things that are almost true, specifically about other people and myself. 
