@@ -12,7 +12,7 @@ permalink: /journeys/
 
 Things to look at:
 1. [I made a map](./map.html) which illuminates part of the UK I have [wild camped](https://en.wikipedia.org/wiki/Wild_camping) within a days walk (25 miles) of. That is, I plot circles of radius 25 miles around each of my camping spots (no campsites) then take the union of these circles and the intersection between them and the UK land area. One day I hope to cover the whole of the UK - I'm currently at about 34%.
-2. [Videos]((https://youtube.com/playlist?list=PLOzJhgOGhmIWfEk7DAbIvLAcqcFBFRLGm&si=92VGfm9yeaVdoAzA)) of my Edinburgh to London walk. For the three year anniversary of my Edinburgh to London walk, I released videos day by day corresponding to that day of the walk. They are unlisted because I wish to keep them away from algorithms, but let others know if you enjoyed them!
+2. [Videos](https://youtube.com/playlist?list=PLOzJhgOGhmIWfEk7DAbIvLAcqcFBFRLGm&si=92VGfm9yeaVdoAzA) of my Edinburgh to London walk. For the three year anniversary of my Edinburgh to London walk, I released videos day by day corresponding to that day of the walk. They are unlisted because I wish to keep them away from algorithms, but let others know if you enjoyed them!
 
 ----
 I love to go on A-B journeys with my bike or my own two feet. My favourites, in chronological order:
