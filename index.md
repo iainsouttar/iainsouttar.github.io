@@ -29,18 +29,7 @@ I co-organise a reading group, broadly on the philosophy of modelling, but often
 ## Event organisation
 Gathering people in productive spaces is an extremely important part of academia. I will be co-organising some training for organising novel events across the summer, funded by a DisCouRSE flexible fund award. See the [unorgodox webpage](./unorgodox.md) for more details.
 
-## Writing
-- [Read here about averages](./Ergodicity_of_multiplicity.html)
-- [Read some of my non-academic writing](./writing/)
 
-# Bikepacking/Camping
-I also love to go on A-B journeys with my bike or my own two feet. My favourites, in chronological order:
-1. Cycled Edinburgh to London 2020
-2. Cycled Edinburgh to Mull and back 2021
-3. Walked Edinburgh to London 2023
-4. Walked Aviemore to Arbroath 2024
-5. Walked Gregynog to Coventry back from Warwick stats departmental conference 2025
-6. Cycled Coventry to Norwich for BAMC 2026
-7. Walked Coventry to Machynlleth for Open Science retreat 2026
-
-[I made a map](./map.html) which illuminates part of the UK I have [wild camped](https://en.wikipedia.org/wiki/Wild_camping) within a days walk (25 miles) of. That is, I plot circles of radius 25 miles around each of my camping spots (no campsites) then take the union of these circles and the intersection between them and the UK land area. One day I hope to cover the whole of the UK - I'm currently at about 34%.
+# Other
+- [Camping and bikepacking section](./journeys/)
+- [(Non-academic) Writing section](./writing/)
