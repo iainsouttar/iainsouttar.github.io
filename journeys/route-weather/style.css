@@ -50,7 +50,7 @@
 }
 
 .rw-input-section label {
-  font-weight: bold;
+  font-weight: normal;
   margin-top: 0.5rem;
 }
 
@@ -146,10 +146,9 @@
 }
 
 .rw-strip-label {
-  font-size: 0.85rem;
-  font-weight: bold;
+  font-size: 1.15rem;
+  font-weight: normal;
   letter-spacing: 0.06em;
-  color: #1e3a5f;
   margin: 0.75rem 0 0 1rem;
 }
 
