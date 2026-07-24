@@ -1,0 +1,242 @@
+/* -------------------------------------------------------
+   Route Weather — scoped styles
+   All selectors are prefixed with .route-weather-app or
+   use IDs/classes unique to this page.
+------------------------------------------------------- */
+
+/* Break the map and table out of the essay-container to
+   fill full viewport width */
+.route-weather-app {
+  /* allow children to escape the parent max-width */
+  position: relative;
+}
+
+.rw-heading {
+  font-family: Georgia, serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.rw-header {
+  text-align: center;
+}
+
+.rw-top-image {
+  display: block;
+  width: 150px;
+  height: auto;
+  margin: 0 auto 0.75rem;
+}
+
+.rw-subtitle {
+  font-family: Georgia, serif;
+  font-size: 1.15rem;
+  line-height: 1.75;
+  color: #555;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+/* ---------- Input section ---------- */
+.rw-input-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 480px;
+  margin-bottom: 1.5rem;
+}
+
+.rw-input-section label {
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.rw-input-section input,
+.rw-input-section select {
+  padding: 0.4rem 0.6rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#generate-btn {
+  margin-top: 0.75rem;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  align-self: flex-start;
+}
+
+#generate-btn:hover {
+  background: #1d4ed8;
+}
+
+/* ---------- Error ---------- */
+.rw-error {
+  color: #b91c1c;
+  font-weight: bold;
+  margin: 0.5rem 0 0;
+}
+
+/* ---------- Hidden utility ---------- */
+.hidden {
+  display: none !important;
+}
+
+/* ---------- Loading ---------- */
+.rw-loading {
+  text-align: center;
+  color: #666;
+  padding: 1rem 0;
+}
+
+/* ---------- Route summary ---------- */
+.rw-summary {
+  margin-bottom: 1rem;
+}
+
+.rw-summary p {
+  margin: 0.2rem 0;
+}
+
+/* ---------- Map ---------- */
+/* Break out of essay-container to fill viewport width */
+#map {
+  width: 100vw;
+  height: 400px;
+  margin-left: calc(-50vw + 50%);
+  margin-bottom: 1.5rem;
+}
+
+/* ---------- Day markers ---------- */
+.rw-day-marker {
+  background: #2563eb;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 0.75rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+}
+
+/* ---------- Forecast timeline strip ---------- */
+/* Break out of essay-container to fill viewport width */
+#forecast-table {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  margin-bottom: 2rem;
+}
+
+.rw-strip-section {
+  margin-bottom: 0.5rem;
+}
+
+.rw-strip-label {
+  font-size: 0.85rem;
+  font-weight: bold;
+  letter-spacing: 0.06em;
+  color: #1e3a5f;
+  margin: 0.75rem 0 0 1rem;
+}
+
+.rw-strip {
+  display: flex;
+  flex-direction: row;
+  gap: 0.75rem;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.75rem 1rem 1rem;
+  scroll-snap-type: x mandatory;
+}
+
+/* ---------- Day cards ---------- */
+.rw-card {
+  flex: 0 0 140px;
+  scroll-snap-align: start;
+  background: #f0f4fb;
+  border: 1px solid #d1daf0;
+  border-radius: 10px;
+  padding: 0.75rem 0.6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+  text-align: center;
+}
+
+.rw-card__day {
+  font-size: 0.7rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #1e3a5f;
+}
+
+.rw-card__date {
+  font-size: 0.8rem;
+  color: #374151;
+  font-weight: 600;
+}
+
+.rw-card__dist {
+  font-size: 0.75rem;
+  color: #6b7280;
+  margin-bottom: 0.3rem;
+}
+
+.rw-card__emoji {
+  font-size: 2rem;
+  line-height: 1;
+  margin: 0.3rem 0;
+}
+
+.rw-card__label {
+  font-size: 0.75rem;
+  color: #374151;
+  margin-bottom: 0.3rem;
+}
+
+.rw-card__temp {
+  font-size: 0.95rem;
+  font-weight: bold;
+  color: #1e3a5f;
+  margin-bottom: 0.3rem;
+}
+
+.rw-card__row {
+  font-size: 0.75rem;
+  color: #374151;
+  width: 100%;
+  text-align: center;
+}
+
+.rw-card__gusts {
+  color: #6b7280;
+  font-style: italic;
+}
+
+/* Unavailable cards */
+.rw-card--unavailable {
+  background: #f9fafb;
+  border-color: #e5e7eb;
+  color: #9ca3af;
+}
+
+.rw-card--unavailable .rw-card__label {
+  font-style: italic;
+  color: #9ca3af;
+}

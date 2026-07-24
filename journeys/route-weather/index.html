@@ -1,0 +1,45 @@
+---
+layout: route_weather
+title: Route Weather
+---
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<link rel="stylesheet" href="style.css">
+
+<div class="rw-header">
+  <img src="/assets/warli-walker-bag-weather.png" alt="Warli-style drawing of a walker with weather" class="rw-top-image">
+  <h1 class="rw-heading">Route Weather</h1>
+</div>
+<p class="rw-subtitle">I always get annoyed that weather forecasts give the weather for a static location. If you're moving, you want a forecast that follows you!</p>
+
+<section id="input-section" class="rw-input-section">
+  <label for="gpx-upload">GPX file</label>
+  <input type="file" id="gpx-upload" accept=".gpx">
+
+  <label for="start-date">Start date</label>
+  <input type="date" id="start-date">
+
+  <label for="daily-distance">Daily distance (km)</label>
+  <input type="number" id="daily-distance" placeholder="km per day" min="1" max="200">
+
+  <label for="activity-type">Activity type</label>
+  <select id="activity-type">
+    <option value="walking">Walking</option>
+    <option value="cycling">Cycling</option>
+  </select>
+
+  <button id="generate-btn">Generate forecast</button>
+  <p id="error-msg" class="rw-error hidden"></p>
+</section>
+
+<div id="loading" class="rw-loading hidden">Fetching forecast...</div>
+
+<section id="results-section" class="hidden">
+  <div id="route-summary" class="rw-summary"></div>
+  <div id="map"></div>
+  <div id="forecast-table"></div>
+</section>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script src="gpx.js"></script>
+<script src="weather.js"></script>
+<script src="app.js"></script>
