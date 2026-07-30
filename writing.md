@@ -9,7 +9,7 @@ permalink: /writing/
   Writing
 </div>
 
-This is a collection of some reflections on random things. They cover a broad range in length, topic, and pretentiousness. 
+This is a collection of some reflections on random things. They cover a broad range in length, topic, and pretentiousness. It is a place for me to put thoughts. 
 
 
 Number of pieces: {{ site.writing.size | plus: 1 }}

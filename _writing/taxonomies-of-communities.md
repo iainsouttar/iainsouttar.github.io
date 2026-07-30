@@ -2,6 +2,8 @@
 title: Taxonomies of communities
 layout: writing
 date: 2026-06-08
+audio: taxonomies.mp3
+duration: 6 min
 ---
 
 Taxonomy is the study of grouping together things that are alike in a hierarchical system. This allows you to compare across groups. It allows you to see relationships between types of groups and in general produce some sort of order where there may be very little before. A very common place to do this is in the classification of animals: the groups we have defined are species, genus, family, and so on. You get, then, something like: blue whales are baleen whales, which are whales, which are sea mammals, which are mammals. And that's hierarchical. It tells you blue whales are more alike to humpback whales (because they are both baleen whales) than they are to dolphins, for example, even though they're all sea mammals. 
